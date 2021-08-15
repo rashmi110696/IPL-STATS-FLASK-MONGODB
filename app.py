@@ -46,7 +46,7 @@ class IplStatsTopWinner(Resource):
         both_toss_and_won = team_and_toss_won(year)
         return jsonify(final_dict)
 
-api.add_resource(IplStatsTopWinner, "/ipl_stats/get_top4")
+api.add_resource(IplStatsTopWinner, "/api/ipl_stats")
 
 if __name__ == "__main__":
     load_data()
