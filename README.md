@@ -22,3 +22,7 @@ mongo
 
 # request the service using browser
 ```http://127.0.0.1:5000/api/ipl_stats?year=2016```
+
+
+![image](https://user-images.githubusercontent.com/47495953/129486600-c5587459-c87f-48e5-b7e3-ce39bc86ea0a.png)
+
